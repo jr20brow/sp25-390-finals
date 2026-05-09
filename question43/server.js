@@ -1,3 +1,5 @@
+//Did not get to finish
+
 const express = require("express");
 const { DatabaseSync } = require("node:sqlite");
 const db = new DatabaseSync("./chinook.db");
